@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 .ipynb_checkpoints
+mtcars_playbook.ipynb
